@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Estudante de Engenharia de Software na UnDF, interessado em tecnologia e aprendizado contínuo. Atualmente, participo de uma pesquisa científica sobre Inteligência Artificial Generativa aplicada à gestão universitária e do projeto de extensão Monitoramento de Pacientes. Busco ampliar meus conhecimentos e transformar aprendizado em soluções para problemas reais.
+Estudante de Engenharia de Software na UnDF, apaixonado por tecnologia e aprendizado contínuo. Atualmente, participo de uma pesquisa científica sobre Inteligência Artificial Generativa aplicada à gestão universitária, do projeto de extensão Monitoramento de Pacientes e atuo como Coordenador de Parcerias no AWS Cloud Club da UnDF. Busco crescer na área de tecnologia por meio de estudos, pesquisa, projetos e colaboração.
 
 
  <a href="https://github.com/budokkan?tab=repositories&sort=stargazers">
