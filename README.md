@@ -1,5 +1,3 @@
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
