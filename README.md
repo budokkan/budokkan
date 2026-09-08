@@ -1,3 +1,5 @@
+# 🧑‍💻 João Pedro **Desenvolvedor** Estudante de Engenharia de Software na UnDF, apaixonado por tecnologia e aprendizado contínuo. Atualmente, participo de uma pesquisa científica sobre Inteligência Artificial Generativa aplicada à gestão universitária, do projeto de extensão Monitoramento de Pacientes e atuo como Coordenador de Parcerias no AWS Cloud Club da UnDF. Busco crescer na área de tecnologia por meio de estudos, pesquisa, projetos e colaboração. <a href="https://github.com/budokkan?tab=repositories&sort=stargazers"> <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/budokkan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /> </a> <a href="https://github.com/budokkan?tab=followers"> <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/budokkan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p> ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
